@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "harnish",
+      "password": "123",
+      "email": "harnish@gmail.com",
+      "id": 1,
+      "role": 1
+    },
+    {
+      "name": "meet",
+      "password": "123",
+      "email": "meetviroja@gmail.com",
+      "role": 1,
+      "id": 2
+    },
+    {
+      "name": "HARSH",
+      "password": "123",
+      "email": "harsg@gmail.com",
+      "role": 2,
+      "id": 3
+    }
+  ]
+}
